@@ -9,6 +9,7 @@
 - ⚡ Atualmente sou aluno da Resilia Educação e do SENAC RJ
 - 💬 Uma curiosidade sobre mim: sou formado como Técnico Ambiental
 - 📫 Entre em contato comigo através do meu e-mail jonathan.c.falcao@gmail.com
+@jonathanfalcao
 
 <!-- Template inspirado no perfil de Rafaela Ballerini -->
 <!-- https://github.com/rafaballerini -->
