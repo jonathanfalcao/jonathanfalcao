@@ -2,15 +2,13 @@
 
 <!--
 **jonathanfalcao/jonathanfalcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🌱 Desenvolvedor Web em Desenvolvimento
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+🌱 Desenvolvedor Web em Desenvolvimento
+- 👯 Em busca de desafios e primeiras oportunidades como programador web
+- ⚡ Atualmente sou aluno da Resilia Educação e do SENAC RJ
+- 💬 Uma curiosidade sobre mim: sou formado como Técnico Ambiental
+- 📫 Entre em contato comigo através do meu e-mail jonathan.c.falcao@gmail.com
 
 <!-- Template inspirado no perfil de Rafaela Ballerini -->
 <!-- https://github.com/rafaballerini -->
