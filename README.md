@@ -1,15 +1,15 @@
-### ✨ Jonathan Falcão ✨
+### :sparkles: Jonathan Falcão :sparkles:
 
 <!--
 **jonathanfalcao/jonathanfalcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🌱 Desenvolvedor Web em Desenvolvimento
-- 👯 Em busca de desafios e primeiras oportunidades como programador web
-- ⚡ Atualmente sou aluno da Resilia Educação e do SENAC RJ
-- 💬 Uma curiosidade sobre mim: sou formado como Técnico Ambiental
-- 📫 Entre em contato comigo através do meu e-mail jonathan.c.falcao@gmail.com
-- :rocket: Atualmente cursando Sistemas de Informação
+:seedling: Desenvolvedor Web em Desenvolvimento
+- :trophy: Em busca de desafios e primeiras oportunidades como programador web
+- :dart: Atualmente sou aluno da Resilia Educação e do SENAC RJ
+- :recycle: Uma curiosidade sobre mim: sou formado como Técnico Ambiental
+- :mailbox: Entre em contato comigo através do meu e-mail jonathan.c.falcao@gmail.com
+- :rocket: No momento cursando Sistemas de Informação
 
 <!-- Template inspirado no perfil de Rafaela Ballerini -->
 <!-- https://github.com/rafaballerini -->
